@@ -14,18 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Linguagens de Programação
-- JavaScript
-- PHP
-- Python
 
-### Frameworks e Bibliotecas
-- React
-- Laravel
-- Django
-
-### Banco de Dados
-- MariaDB
-
-### Contêineres e Virtualização
-- Docker
