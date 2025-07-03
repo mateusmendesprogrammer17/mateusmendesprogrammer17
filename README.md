@@ -1,3 +1,13 @@
+## Mateus Mendes de Freitas
+Meu nome é Mateus, tenho 18 anos e iniciei meus estudos no IFPR de Ponta Grossa em 2022. Atualmente, estou concluindo o Curso Técnico em Informática.
+
+Tenho experiência com bancos de dados relacionais, como MariaDB e MySQL. Nas linguagens de programação, possuo conhecimentos em JavaScript, PHP, Python e Java.
+
+No framework Laravel, aprendi a utilizar PHP para desenvolvimento fullstack baseado na arquitetura MVC (Model-View-Controller). Já no Django, utilizei Python para a mesma finalidade, aplicando a arquitetura MVT (Model-View-Template).
+
+Além disso, estudei React com o objetivo de aprender a integrar interfaces modernas com os frameworks que já conheço no lado do servidor.
+
+Recentemente, adquiri conhecimentos sobre Docker para compreender melhor o funcionamento do Laravel Sail.
 ### 🚀 Linguagens e Tecnologias
 
 <img 
