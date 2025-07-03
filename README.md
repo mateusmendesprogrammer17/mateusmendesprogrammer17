@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mateus Mendes de Freitas
 
 <!--
 **mateusmendesprogrammer17/mateusmendesprogrammer17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Linguagens de Programação
+- JavaScript
+- PHP
+- Python
+
+### Frameworks e Bibliotecas
+- React
+- Laravel
+- Django
+
+### Banco de Dados
+- MariaDB
+
+### Contêineres e Virtualização
+- Docker
