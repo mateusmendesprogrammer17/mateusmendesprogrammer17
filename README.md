@@ -91,14 +91,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" 
-/>
+<i class="devicon-django-plain-wordmark colored"></i>
 
 <br clear="left"/>
 
