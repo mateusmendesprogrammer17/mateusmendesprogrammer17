@@ -5,8 +5,8 @@
     alt="JavaScript" 
     title="JavaScript" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="" 
+    style="margin-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -14,7 +14,7 @@
     alt="PHP" 
     title="PHP" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
@@ -23,7 +23,7 @@
     alt="Python" 
     title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
@@ -32,7 +32,7 @@
     alt="Docker" 
     title="Docker" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
@@ -41,7 +41,7 @@
     alt="MariaDB" 
     title="MariaDB" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
 />
 
@@ -50,7 +50,7 @@
     alt="React" 
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
@@ -59,18 +59,9 @@
     alt="Laravel" 
     title="Laravel" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" 
+    style="margin-right: 10px;" 
+    src="https://laravel.com/img/logomark.min.svg" 
 />
 
 <img
-    align="Left"
-    alt="Django"
-    title="Django"
-    width="30px"
-    style="padding-right:10px"
-    src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png"
-/>
-
-
-<br clear="left"/>
+    align=
