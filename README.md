@@ -36,6 +36,15 @@ Recentemente, adquiri conhecimentos sobre Docker para compreender melhor o funci
     style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
 
 <img 
     align="left" 
