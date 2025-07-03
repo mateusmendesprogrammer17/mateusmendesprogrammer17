@@ -64,4 +64,12 @@
 />
 
 <img
-    align=
+    align="left"
+    alt="Django"
+    title="Django"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://raw.githubusercontent.com/django/django/main/docs/_static/django-logo-positive.svg"
+/>
+
+<br clear="left" />
