@@ -69,7 +69,8 @@
     title="Django"
     width="30px"
     style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
+    src="https://raw.githubusercontent.com/django/django/main/docs/_static/django-logo-positive.svg"
 />
+
 
 <br clear="left"/>
