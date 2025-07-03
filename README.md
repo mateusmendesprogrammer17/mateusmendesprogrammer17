@@ -69,7 +69,7 @@
     title="Django"
     width="30px"
     style="margin-right: 10px;"
-    src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
 />
 
 <br clear="left" />
