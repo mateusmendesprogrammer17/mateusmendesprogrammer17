@@ -59,7 +59,7 @@
     alt="Laravel" 
     title="Laravel" 
     width="30px" 
-    style="margin-right: 10px;" 
+    style="margin-right: 10px; background-color:#ffffff;" 
     src="https://laravel.com/img/logomark.min.svg" 
 />
 
