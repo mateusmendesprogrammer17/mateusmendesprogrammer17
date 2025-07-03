@@ -97,7 +97,7 @@
     title="Django" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" 
 />
 
 <br clear="left"/>
