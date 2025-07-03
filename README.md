@@ -80,6 +80,25 @@ Recentemente, adquiri conhecimentos sobre Docker para compreender melhor o funci
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
+<img
+    align="left"
+    alt="Tailwind CSS"
+    title="Tailwind CSS"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Vite Js" 
+    title="Vite Js" 
+    width="30px" 
+    style="margin-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+
+          
 <img 
     align="left" 
     alt="Laravel" 
