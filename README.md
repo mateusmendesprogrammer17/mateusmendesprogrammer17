@@ -1,5 +1,5 @@
 ## Mateus Mendes de Freitas
-Meu nome é Mateus, tenho 18 anos e iniciei meus estudos no IFPR de Ponta Grossa em 2022. Atualmente, estou concluindo o Curso Técnico em Informática.
+Meu nome é Mateus, tenho 20 anos e iniciei meus estudos no IFPR de Ponta Grossa em 2022. Atualmente, estou concluindo o Curso Técnico em Informática.
 
 Tenho experiência com bancos de dados relacionais, como MariaDB e MySQL. Nas linguagens de programação, possuo conhecimentos em JavaScript, PHP, Python e Java.
 
